@@ -1,4 +1,3 @@
-
 Government Gazette
 
 Staaiskaermit
@@ -234,11 +233,11 @@ The Policy prioritises the need to implement interventions aimed at strategic po
 
 2.3.1.4 It is not government's intention to crowd out private investment in submarine cable, but rather to bring about equitable access to international bandwidth capacity by all operators. In this regard, the policy seeks to;
 
-1.  a)Encourage and promote private sector investment in international backbone networks.
+  a)Encourage and promote private sector investment in international backbone networks.
 
-2.  b)In the event of market failure, government will intervene to ensure competitively priced international bandwidth availability.
+  b)In the event of market failure, government will intervene to ensure competitively priced international bandwidth availability.
 
-3.  c)All submarine cable landing stations are declared essential facilities and shall be accessible transparent fair and non-discriminatory.
+  c)All submarine cable landing stations are declared essential facilities and shall be accessible transparent fair and non-discriminatory.
 
 2.3.2 Access to National Backbone Networks
 
@@ -327,11 +326,11 @@ The Policy prioritises the need to implement interventions aimed at strategic po
 
 4.2.1.1 Department of Communications (DoC)
 
-1.  a)The Department of Communications, as the custodian of ICT policy
+  a)The Department of Communications, as the custodian of ICT policy
     in South Africa, will be ultimately responsible for facilitating the
     implementation of this policy as a whole.
 
-2.  b)National Government will from time to time, by means of policy,
+  b)National Government will from time to time, by means of policy,
     direct the Independent Communications Authority of South Africa
     (ICASA) to create an enabling regulatory environment for the private
     and public sector to develop infrastructure, services and
@@ -386,33 +385,33 @@ As the custodian of ensuring that government information is made available onlin
 
 The role of the provincial government is to:
 
-1.  a)define the provincial broadband requirements to enable connectivity and access;
+  a) define the provincial broadband requirements to enable connectivity and access;
 
-2.  b)establish Broadband Implementation focal points within established Intergovernmental Relations Fora;
+  b) establish Broadband Implementation focal points within established Intergovernmental Relations Fora;
 
-3.  c)collaborate with DoC in connecting provincial governments and their entities with Broadband services and enabling the distribution
+  c) collaborate with DoC in connecting provincial governments and their entities with Broadband services and enabling the distribution
     of e-government services to drive the demand for Broadband and promote uptake and usage;
 
-4.  d)invest in the development of local content and Broadband awareness to support uptake and usage of Broadband services; and,
+  d) invest in the development of local content and Broadband awareness to support uptake and usage of Broadband services; and,
 
-5.  e)align and implement existing and new broadband policies and strategies with the National Broadband Policy;
+  e) align and implement existing and new broadband policies and strategies with the National Broadband Policy;
 
 4.2.3 Local Governments
 
 The role of local government is to:
 
-1.  a)define municipal broadband requirements to enable connectivity of municipal offices;
+  a) define municipal broadband requirements to enable connectivity of municipal offices;
 
-2.  b)ensure the provision of electronic communication network services in cooperation with the provincial and national government;
+  b) ensure the provision of electronic communication network services in cooperation with the provincial and national government;
 
-3.  c)facilitate approval processes with regard to rights of way;
+  c) facilitate approval processes with regard to rights of way;
 
-4.  d)collaborate with provinces and DoC in connecting local government offices and their entities with Broadband services and enabling the
+  d) collaborate with provinces and DoC in connecting local government offices and their entities with Broadband services and enabling the
     distribution of e- government services to drive the demand for Broadband and promote uptake and usage;
 
-5.  e)invest in the development of local content and Broadband awareness to support uptake and usage of Broadband services; and,
+  e) invest in the development of local content and Broadband awareness to support uptake and usage of Broadband services; and,
 
-6.  f)align and implement existing and new municipal policies and strategies with provincial policies and strategies.
+  f) align and implement existing and new municipal policies and strategies with provincial policies and strategies.
 
 4.2.4 State Owned Companies (SOCs)
 
@@ -458,12 +457,9 @@ Science and Technology
 9 BENEFITS OF BROADBAND
 ======================
 
-Broadband is recognised as a strategic tool in the building of knowledge
-based economy. Numerous studies have confirmed that increased broadband
-penetration has a positive impact on economic growth, bridging the
-digital divide, and improving access and delivery of social services
-resulting in improved quality of life of citizens and competitiveness of
-the country. The following are regarded as essential and identifiable
+Broadband is recognised as a strategic tool in the building of knowledge based economy. Numerous studies have confirmed that increased broadband
+penetration has a positive impact on economic growth, bridging the digital divide, and improving access and delivery of social services
+resulting in improved quality of life of citizens and competitiveness of the country. The following are regarded as essential and identifiable
 benefits of broadband:
 
 9.1 Supporting economic development and growth
