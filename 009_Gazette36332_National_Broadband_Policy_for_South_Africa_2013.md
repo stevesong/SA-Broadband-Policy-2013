@@ -123,31 +123,31 @@ Table of Contents
 
 6 BENEFITS OF BROADBAND 24
 
-1 INTRODUCTION
+1. INTRODUCTION
 =============
 
-1.1 Context
+1.1. Context
 ----------
 
-1.1.1 Broadband is generally defined as a high-speed, high capacity transmission medium that can carry signals from multiple independent network carriers. There is no general consensus on the precise speed at which a network connection is deemed to be broadband service both at local and at international level. For example, even within the International Telecommunications Union (ITU), the different sectors in alignment with their functions, define broadband differently. The standardisation sector defines broadband as a transmission capacity that is faster than primary rate Integrated Services Digital Network at 1, 5 Megabits (Mbps) to 2 per second Mbps whilst the Development Sector defines it to be 256 Kilobits per second (Kbps). Comparative research has demonstrated that broadband speeds in different countries vary between 128 kbps and 10 mbps.
+1.1.1. Broadband is generally defined as a high-speed, high capacity transmission medium that can carry signals from multiple independent network carriers. There is no general consensus on the precise speed at which a network connection is deemed to be broadband service both at local and at international level. For example, even within the International Telecommunications Union (ITU), the different sectors in alignment with their functions, define broadband differently. The standardisation sector defines broadband as a transmission capacity that is faster than primary rate Integrated Services Digital Network at 1, 5 Megabits (Mbps) to 2 per second Mbps whilst the Development Sector defines it to be 256 Kilobits per second (Kbps). Comparative research has demonstrated that broadband speeds in different countries vary between 128 kbps and 10 mbps.
 
-1.1.2 Broadband is an enabling infrastructure for building knowledge economy and information society; and for accelerating growth and development of the South African economy. International experience shows a positive correlation between broadband penetration, economic growth and employment. The World Bank estimates that every 10% broadband penetration results in 1.38% economic growth.
+1.1.2. Broadband is an enabling infrastructure for building knowledge economy and information society; and for accelerating growth and development of the South African economy. International experience shows a positive correlation between broadband penetration, economic growth and employment. The World Bank estimates that every 10% broadband penetration results in 1.38% economic growth.
 
-1.1.3 Globally broadband has been identified as an accelerator of economic and social development. It is regarded as a powerful transformative force that has improved how individuals work, conduct business, access government information and socialise. Broadband also provides businesses with a powerful tool that can increase productivity levels and access to markets.
+1.1.3. Globally broadband has been identified as an accelerator of economic and social development. It is regarded as a powerful transformative force that has improved how individuals work, conduct business, access government information and socialise. Broadband also provides businesses with a powerful tool that can increase productivity levels and access to markets.
 
-1.1.4 The South African government has set a target to create five (5) million jobs by 2020. In this regard, Government has adopted the New Growth Path (NGP) in 2010. The NGP identifies areas where employment creation is possible both within the economic sectors and cross-cutting activities. Amongst others it identifies public investment in infrastructure as one of the key job drivers. Investment in modern infrastructure is a requisite for improving the competitiveness and increasing productivity levels of the South African economy. This will ensure that South Africa is able to participate in the knowledge economy. The ICT sector has a contribution to make in achieving this target.
+1.1.4. The South African government has set a target to create five (5) million jobs by 2020. In this regard, Government has adopted the New Growth Path (NGP) in 2010. The NGP identifies areas where employment creation is possible both within the economic sectors and cross-cutting activities. Amongst others it identifies public investment in infrastructure as one of the key job drivers. Investment in modern infrastructure is a requisite for improving the competitiveness and increasing productivity levels of the South African economy. This will ensure that South Africa is able to participate in the knowledge economy. The ICT sector has a contribution to make in achieving this target.
 
-1.1.5  Broadband will contribute in enhancing government policy objectives in the provision of education, health services, job creation, reducing the levels of crime and corruption and building sustainable rural communities. This will ultimately facilitate the sharing of information and knowledge and ensure greater connection amongst the people of South Africa and the rest of the World.
+1.1.5.  Broadband will contribute in enhancing government policy objectives in the provision of education, health services, job creation, reducing the levels of crime and corruption and building sustainable rural communities. This will ultimately facilitate the sharing of information and knowledge and ensure greater connection amongst the people of South Africa and the rest of the World.
 
-1.1.6 The future as defined in the National Development Plan (NDP) will require that by 2030, South Africa should have an e-literate society, which enables citizens to participate in the information society. Supporting the provision of these services through Broadband will lay a foundation for building an e-literate society by 2030.
+1.1.6. The future as defined in the National Development Plan (NDP) will require that by 2030, South Africa should have an e-literate society, which enables citizens to participate in the information society. Supporting the provision of these services through Broadband will lay a foundation for building an e-literate society by 2030.
 
-1.1.7 Broadband will contribute in improving the competitiveness of the economy and increasing productivity levels through initiatives that support the achievement of the objectives of the National Industrial Policy Framework (NIPF) and ultimately the Industrial Policy Action Plan (PAP). IPAP identifies sectors with growth potential that increase the productive capacity of the economy.
+1.1.7. Broadband will contribute in improving the competitiveness of the economy and increasing productivity levels through initiatives that support the achievement of the objectives of the National Industrial Policy Framework (NIPF) and ultimately the Industrial Policy Action Plan (PAP). IPAP identifies sectors with growth potential that increase the productive capacity of the economy.
 
-1.1.8 In addition, the Presidential Infrastructure Coordinating Commission (PICC) has prioritised broadband and connectivity as part of the national infrastructure programme. It is therefore important that a coordinated approach is adopted to ensure that there is 100% broadband coverage.
+1.1.8. In addition, the Presidential Infrastructure Coordinating Commission (PICC) has prioritised broadband and connectivity as part of the national infrastructure programme. It is therefore important that a coordinated approach is adopted to ensure that there is 100% broadband coverage.
 
-1.1.9 The National Broadband Policy for South Africa (hereafter referred to as the Policy), is informed by the need to fast track the deployment of high-speed broadband infrastructure such as fibre-optic backbones, wireless and international connectivity, achieving a holistic and coordinated national approach in the provision of broadband infrastructure and services; and the development of targeted policy interventions to encourage the uptake and usage of broadband services across the country particularly in rural areas.
+1.1.9. The National Broadband Policy for South Africa (hereafter referred to as the Policy), is informed by the need to fast track the deployment of high-speed broadband infrastructure such as fibre-optic backbones, wireless and international connectivity, achieving a holistic and coordinated national approach in the provision of broadband infrastructure and services; and the development of targeted policy interventions to encourage the uptake and usage of broadband services across the country particularly in rural areas.
 
-1.2 Status of Broadband in South Africa
+1.2. Status of Broadband in South Africa
 --------------------------------------
 
 1.2.1 In South Africa, broadband is delivered through fixed copper line, fibre, fixed wireless, satellite and mobile platforms.
@@ -233,11 +233,11 @@ The Policy prioritises the need to implement interventions aimed at strategic po
 
 2.3.1.4 It is not government's intention to crowd out private investment in submarine cable, but rather to bring about equitable access to international bandwidth capacity by all operators. In this regard, the policy seeks to;
 
-  a)Encourage and promote private sector investment in international backbone networks.
+  a) Encourage and promote private sector investment in international backbone networks.
 
-  b)In the event of market failure, government will intervene to ensure competitively priced international bandwidth availability.
+  b) In the event of market failure, government will intervene to ensure competitively priced international bandwidth availability.
 
-  c)All submarine cable landing stations are declared essential facilities and shall be accessible transparent fair and non-discriminatory.
+  c) All submarine cable landing stations are declared essential facilities and shall be accessible transparent fair and non-discriminatory.
 
 2.3.2 Access to National Backbone Networks
 
@@ -326,16 +326,9 @@ The Policy prioritises the need to implement interventions aimed at strategic po
 
 4.2.1.1 Department of Communications (DoC)
 
-  a)The Department of Communications, as the custodian of ICT policy
-    in South Africa, will be ultimately responsible for facilitating the
-    implementation of this policy as a whole.
+  a) The Department of Communications, as the custodian of ICT policy in South Africa, will be ultimately responsible for facilitating the implementation of this policy as a whole.
 
-  b)National Government will from time to time, by means of policy,
-    direct the Independent Communications Authority of South Africa
-    (ICASA) to create an enabling regulatory environment for the private
-    and public sector to develop infrastructure, services and
-    applications towards the increase of access to and affordability of
-    Broadband services.
+  b) National Government will from time to time, by means of policy, direct the Independent Communications Authority of South Africa (ICASA) to create an enabling regulatory environment for the private and public sector to develop infrastructure, services and applications towards the increase of access to and affordability of Broadband services.
 
 4.2.1.2 National Treasury (NT)
 
@@ -389,8 +382,7 @@ The role of the provincial government is to:
 
   b) establish Broadband Implementation focal points within established Intergovernmental Relations Fora;
 
-  c) collaborate with DoC in connecting provincial governments and their entities with Broadband services and enabling the distribution
-    of e-government services to drive the demand for Broadband and promote uptake and usage;
+  c) collaborate with DoC in connecting provincial governments and their entities with Broadband services and enabling the distribution of e-government services to drive the demand for Broadband and promote uptake and usage;
 
   d) invest in the development of local content and Broadband awareness to support uptake and usage of Broadband services; and,
 
@@ -406,8 +398,7 @@ The role of local government is to:
 
   c) facilitate approval processes with regard to rights of way;
 
-  d) collaborate with provinces and DoC in connecting local government offices and their entities with Broadband services and enabling the
-    distribution of e- government services to drive the demand for Broadband and promote uptake and usage;
+  d) collaborate with provinces and DoC in connecting local government offices and their entities with Broadband services and enabling the distribution of e- government services to drive the demand for Broadband and promote uptake and usage;
 
   e) invest in the development of local content and Broadband awareness to support uptake and usage of Broadband services; and,
 
